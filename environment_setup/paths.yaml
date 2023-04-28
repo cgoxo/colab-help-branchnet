@@ -1,0 +1,5 @@
+branch_traces_dir: /content/paths/branch_traces
+experiments_dir: /content/paths/experiments
+hard_brs_dir: /content/paths/hard_brs
+ml_datasets_dir: /content/paths/ml_datasets
+tage_stats_dir: /content/paths/tage_stats
